@@ -1,0 +1,34 @@
+.tabular{
+	position: absolute;
+	top: 855px;
+	width: 100%;
+	height: 40%;
+	background-color: #0B7EBD;
+}
+.tabu1{
+	position: absolute;
+	top: 40px;
+	left: 50px;
+	width: 20%;
+	height: 75%;
+	background-color: #2E8BC0;
+	color: white;
+}
+.tabu2{
+	position: absolute;
+	top: 40px;
+	left: 500px;
+	width: 35%;
+	height: 75%;
+	background-color: #2E8BC0;
+	color: white;
+}
+.tabu3{
+	position: absolute;
+	top: 40px;
+	right: 50px;
+	width: 20%;
+	height: 75%;
+	background-color: #2E8BC0;
+	color: white;
+}
